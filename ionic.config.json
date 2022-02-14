@@ -1,0 +1,7 @@
+{
+  "name": "Investi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
