@@ -16,3 +16,7 @@ export default defineComponent({
   }
 });
 </script>
+
+<style>
+@import './theme/index.css';
+</style>

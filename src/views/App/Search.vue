@@ -4,11 +4,11 @@
       <ion-toolbar>
         <ion-grid>
           <ion-row>
-            <ion-col size="3"></ion-col>
-            <ion-col size="6">
+            <ion-col size="1"></ion-col>
+            <ion-col size="10">
               <ion-searchbar show-cancel-button="always"></ion-searchbar>
             </ion-col>
-            <ion-col size="3"></ion-col>
+            <ion-col size="1"></ion-col>
           </ion-row>
         </ion-grid>
       </ion-toolbar>
